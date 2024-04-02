@@ -1,0 +1,132 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+.background {
+  width: 1358px;
+  height: 697px;
+  background-color: #d9eee1;
+  background-size: auto;
+  position: relative;
+}
+h1 {
+  position: absolute;
+  top: 127px;
+  left: 321px;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 100px;
+}
+.p1 {
+  position: absolute;
+  top: 264px;
+  left: 307px;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: large;
+}
+.p2 {
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  position: absolute;
+  top: 310px;
+  left: 349px;
+  border: #0daa6e solid 2px;
+  background-color: #0daa6e;
+  border-radius: 50px;
+  color: white;
+  width: 210px;
+  height: 41px;
+  padding-top: 10px;
+  padding-left: 52px;
+}
+.p3 {
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  position: absolute;
+  top: 370px;
+  left: 349px;
+  border: #fff5a3 solid 2px;
+  background-color: #fff5a3;
+  border-radius: 50px;
+  color: black;
+  width: 210px;
+  height: 41px;
+  padding-top: 10px;
+  padding-left: 52px;
+}
+.p4 {
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  position: absolute;
+  top: 430px;
+  left: 349px;
+  border: #272b35 solid 2px;
+  background-color: #272b35;
+  border-radius: 50px;
+  color: white;
+  width: 210px;
+  height: 41px;
+  padding-top: 10px;
+  padding-left: 52px;
+}
+.p5 {
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  position: absolute;
+  top: 490px;
+  left: 349px;
+  border: #ffc0c7 solid 2px;
+  background-color: #ffc0c7;
+  border-radius: 50px;
+  color: black;
+  width: 210px;
+  height: 41px;
+  padding-top: 10px;
+  padding-left: 52px;
+}
+.border1 {
+  width: 405px;
+  height: 434px;
+  background-color: #e8e9eb;
+  border-radius: 5px;
+  box-shadow: 0px 0px 6px 0px #7a7979;
+  position: relative;
+  left: 700px;
+  top: 120px;
+}
+.txt1 {
+  font-family: sans-serif;
+  font-size: 22px;
+  position: absolute;
+  top: 23px;
+  left: 20px;
+}
+.txt2 {
+  font-family: sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  position: absolute;
+  top: 379px;
+  left: 21px;
+  border: #0daa6e solid 2px;
+  background-color: #0daa6e;
+  border-radius: 50px;
+  color: white;
+  width: 165px;
+  height: 39px;
+  padding-top: 9px;
+  padding-left: 29px;
+}
+.border2 {
+  width: 370px;
+  height: 300px;
+  background-color: white;
+  position: absolute;
+  top: 65px;
+  right: 17px;
+  border-left: #0daa6e solid;
+}
